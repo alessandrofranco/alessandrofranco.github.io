@@ -169,7 +169,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000_2.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -897,7 +897,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/alessandrofranco-finalrecovered-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alessandrofranco-finalrecovered-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alessandrofranco%20finalrecovered-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -1538,7 +1538,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/co5jsrqu8aakjc2-128x107-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/co5jsrqu8aakjc2-128x107_1.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1641,7 +1641,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-mobirise23-384x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo%20mobirise23-384x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "Adobe Premiere",
