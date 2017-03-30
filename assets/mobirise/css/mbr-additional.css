@@ -491,14 +491,13 @@ h6,
   font-size: 72px;
   color: #c1c1c1;
 }
-#content8-2a .mbr-section-title,
-#content8-2a p {
-  text-align: right;
+#msg-box8-2g .mbr-section-title,
+#msg-box8-2g p {
   color: #fff;
 }
-#content8-2a .mbr-section-title {
-  text-align: center;
-  font-size: 84px;
+#social-buttons2-2e .mbr-section-title,
+#social-buttons2-2e .btn-social {
+  color: #232323;
 }
 
 #header1-1s .mbr-section-title {
@@ -968,7 +967,7 @@ h6,
 }
 #header1-1r .mbr-section-title {
   color: #553982;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 100px;
 }
 
